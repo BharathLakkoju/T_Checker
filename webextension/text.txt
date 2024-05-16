@@ -1,0 +1,20 @@
+All strikes and terminations can be appealed if the creator believes that there was an error, and our teams will re-review the decision.
+To do that, we combine the power of advanced machine learning systems and our community itself to flag potentially problematic content.
+Is there a way for the broader community to flag harmful content?
+The YouTube community also plays an important role in flagging content they think is inappropriate.
+How does YouTube develop new policies and update existing ones?
+Each of our policies is carefully thought through so that they are consistent, well-informed and can be applied to content from around the world.
+NGOs also receive occasional online training on YouTube policies.
+Participants receive training on YouTube policies and have a direct path of communication with our Trust & Safety specialists.
+Resources       Learn more about Community Guidelines strikes        Appeal a Community Guidelines strike        
+Age-restricting content
+Sometimes content doesn't violate our Community Guidelines but may not be appropriate for viewers under 18 years of age.
+We developed the YouTube Trusted Flagger programme to provide robust content reporting processes to non-governmental organisations (NGOs) with expertise in a policy area and government agencies.
+Community Guidelines strikes
+If our reviewers decide that content violates our Community Guidelines, we remove the content and send a notice to the creator.
+They're developed in consultation with a wide range of external industry and policy experts, as well as YouTube Creators.
+After one warning, we'll issue a Community Guidelines strike to the channel and the account will have temporary restrictions including not being allowed to upload videos, live streams or stories for a one-week period.
+If you see content that you think violates the Community Guidelines, you can use our flagging feature to submit content for review.
+In these cases, our review team will place an age restriction on the video so that it will not be visible to viewers under 18 years of age, logged-out users or to those who have Restricted mode enabled.
+How does YouTube identify content that violates the Community Guidelines?
+With hundreds of hours of new content uploaded to YouTube every minute, we use a combination of people and machine learning to detect problematic content at scale.

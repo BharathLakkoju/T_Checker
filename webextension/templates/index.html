@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Result</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="w-[500px] h-[600px]">
+    <div class='container m-2'>
+      <span>Positive: {{ pos_percent }} %</span>
+      <span>Negative: {{ neg_percent }} %</span>
+    </div>
+    <div class="container my-2">
+        {% for pos in positive %}
+            <div class="alert alert-success" role="alert">
+              {{ pos }}
+            </div>
+        {% endfor %}
+    </div>
+    <div class="container  my-2">
+        {% for neg in negative %}
+            <div class="alert alert-danger" role="alert">
+              {{ neg }}
+            </div>
+        {% endfor %}
+    </div>
+</body>
+</html>
