@@ -60,7 +60,7 @@ py manage.py runserver
 - Open you browser (chrome, firefox, brave, etc..)
 - click on `extensions` and enable `developer mode` to add custom extensions.
 
-  ![](file://C:\Users\bharath\AppData\Roaming\marktext\images\2024-07-28-21-36-50-image.png?msec=1722182810396)
+  ![](developersetting.png)
 
 - You need to click on `Load unpacked` option to add new extension from local folder. Select the `webextension_ui` folder and then click `next` to add the extension.
 
