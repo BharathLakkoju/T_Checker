@@ -1,7 +1,5 @@
 # Terms & Conditions / Privacy Policy Checker
 
----
-
 ## About
 
 A Browser extension which states reliability of privacy policies and terms included in the webpage that is being viewed. This provides Integration and Innovation to Execution of AI based Extensions.
